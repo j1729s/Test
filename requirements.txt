@@ -1,0 +1,10 @@
+numpy
+pandas
+websocket-client
+orjson
+statsmodels
+python-binance
+polars
+csvfile
+ccxt
+asyncio
